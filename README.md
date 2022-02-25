@@ -1,7 +1,7 @@
 # hello world
 ## this is kristia
 ### i am practicing git and github readme files
-#### markup language is something i am interested in mastering
+#### i am interested in mastering coding languages!
 
 *this is italic*
 **this is bold**
